@@ -16,11 +16,21 @@
 
 ### 🚀 Projects
 
-- 🔐 **[Smart Room Booking System](https://github.com/your-repo-link)**  
-  A C++ console app for booking rooms with admin/user roles, login, and room management features.
+### 🗂️ My Course Project
 
-- 🤖 **[Vision Beyond Sight](https://github.com/your-repo-link)**  
-  AI-powered navigation assistant for the visually impaired using real-time computer vision.
+📁 **[TECHNOLOGIES INFORMATION SYSTEM (SECP1513)](https://github.com/miqbaltariq/SECP1513202420251/tree/6712538f112c0b22242a1f5d865f95c017d300b8/06/TAN%20JIA%20YIE)**  
+_A multi-task academic project completed as part of SECP1513 coursework._
+
+**Included Tasks:**
+- 🖥️ **PC Assemble**
+- 🖌️ **Poster on Industry Talk 1**
+- 🎥 **Video on Industry Visit 1**
+- 📖 **Academic Writing on Industry Talk 2**
+- 🖼️ **Poster on CODE'2025**
+- 🤖 **Design Thinking Project**
+
+🔗 [View full folder on GitHub »](https://github.com/miqbaltariq/SECP1513202420251/tree/6712538f112c0b22242a1f5d865f95c017d300b8/06/TAN%20JIA%20YIE)
+
 
 ---
 
