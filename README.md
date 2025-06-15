@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Tan Jia Yie</h1>
-<h3 align="center">Bachelor's Student in Computer Network and Security at UTM</h3>
+<h3 align="center">Bachelor's Student 
+in Computer Network and Security at UTM</h3>
 
 ---
 
@@ -22,7 +23,18 @@
   - **UPSR**: 7A
 
 - 🎽 **Active in Co-curricular Activities**  
-  - Represented school in **high jump**, **ping pong**, and more since primary school  
+  - Represented school in **high jump**, **ping pong**, and more since primary school
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/ea3c9e12-d7f2-410b-bb76-dc98f445c556" width="200" alt="Photo 1" />
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/user-attachments/assets/aa96b18a-2390-48d4-a096-305abb30cefe" width="200" alt="Photo 2" />
+</p>
+
+<p align="center">
+  <b>📷 Left:</b> First Photo &nbsp;&nbsp;&nbsp; <b>📷 Right:</b> Second Photo
+</p>
+
+
   - 4 years of **sports leadership experience** in secondary school, including leading school sports teams  
   - Enthusiastically participated in **leadership camps** and student activities
 
