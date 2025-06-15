@@ -13,7 +13,20 @@
 - ⚡ Fun fact: I'm always curious and love trying out new experiences!
 
 ---
+### 🏅 Achievements & Involvement
 
+- 📚 **Academic Excellence**  
+  - **SPM**: 10A  
+  - **Foundation**: CGPA 3.97  
+  - **MUET**: Band 4.0  
+  - **UPSR**: 7A
+
+- 🎽 **Active in Co-curricular Activities**  
+  - Represented school in **high jump**, **ping pong**, and more since primary school  
+  - 4 years of **sports leadership experience** in secondary school, including leading school sports teams  
+  - Enthusiastically participated in **leadership camps** and student activities
+
+---
 ### 🚀 Projects
 
 ### 🗂️ My Course Project
