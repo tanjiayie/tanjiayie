@@ -23,6 +23,48 @@ I'm **Tan Jia Yie**, a Computer Network and Security student at **UTM** who enjo
 - 🌍 Happy to explore something new, whether it's food, culture, or technology.
 - 💬 Pronouns: **she/her**.
 
+### ✨ Honours & highlights
+
+| Recognition | My journey |
+| :--- | :--- |
+| 🎓 **MCMC CARE Scholarship** | Scholarship recipient and recipient representative delivering a speech at the **MCMC Scholarship Award Ceremony 2025**. |
+| 💡 **Ideathon · Consolation Prize** | Collaborated with my team to develop and present our idea. |
+| 🏆 **HCI Day · Champion** | Celebrated a championship with my HCI project team. |
+| 🥇 **Team Championship · Leadership** | Led my team to become champions — a proud moment of teamwork and shared effort. |
+
+<p align="center">
+  <img src="assets/achievements/mcmc-scholarship.jpg" width="680" alt="Delivering a speech as a recipient representative at the MCMC Scholarship Award Ceremony 2025" />
+  <br>
+  <sub>🎤 Representing fellow scholarship recipients at the MCMC Scholarship Award Ceremony 2025.</sub>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/achievements/ideathon-consolation.jpg" width="280" alt="Our team celebrating an Ideathon consolation prize" /><br>
+      <b>💡 Ideathon · Consolation Prize</b><br>
+      <sub>From an idea to a shared achievement.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/achievements/hci-day-champions.jpg" width="340" alt="Our HCI Day champion team celebrating together" /><br>
+      <b>🏆 HCI Day · Champion</b><br>
+      <sub>Building, presenting, and winning together.</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🥇 Leading my team to a championship</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="assets/achievements/team-champions.jpg" width="360" alt="The team I led celebrating our championship with trophies and a yellow flag" /><br>
+  <sub>A championship made possible by teamwork, commitment, and the joy of leading together.</sub>
+</p>
+
+</details>
+
 ### 🚀 Project highlights
 
 | Project | What it's about | Explore |
